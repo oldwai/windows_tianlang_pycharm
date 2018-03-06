@@ -1,0 +1,16 @@
+{
+    "pdf_sources": [
+        {
+            "source_id": "151514007102723800",
+            "source_text": "1.4.4 在 Windows 上安装\r\n在 Windows 上安装 Git 同样轻松，有个叫做 msysGit 的项目提供了安装包，可以从 Google Code 的页面\r\n上下载安装文件（.exe）："
+        },
+        {
+            "source_id": "151572738884917800",
+            "source_text": "ux 上安装\r\n如果要在 Linux 上安装预编译好的 Git 二进"
+        },
+        {
+            "source_id": "151678182170647500",
+            "source_text": "ports.o"
+        }
+    ]
+}

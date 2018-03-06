@@ -1,0 +1,112 @@
+{
+    "isli_sources": [
+        {
+            "isli_source_id": "151503444510171600",
+            "source_content": ""
+        },
+        {
+            "isli_source_id": "151503446322607100",
+            "source_content": ""
+        },
+        {
+            "isli_source_id": "151503446222207000",
+            "source_content": ""
+        },
+        {
+            "isli_source_id": "151503446121801300",
+            "source_content": ""
+        },
+        {
+            "isli_source_id": "151563926401647000",
+            "source_content": "1.6：工作目录，"
+        },
+        {
+            "isli_source_id": "151503444611103200",
+            "source_content": "git目录"
+        },
+        {
+            "isli_source_id": "151503444712203400",
+            "source_content": "些修改了的文件作快"
+        },
+        {
+            "isli_source_id": "151555660597793700",
+            "source_content": "将保存在暂存区域的文件快照转储到git目录中。"
+        },
+        {
+            "isli_source_id": "151503444813201200",
+            "source_content": "我们可以从文件所处的位置来判断状态：如果是git目录中保存着的特定版本文件，就属于已提交状态；如果作了修改并已放入暂存"
+        },
+        {
+            "isli_source_id": "151503444914201000",
+            "source_content": "次取出后，作了修改但还"
+        },
+        {
+            "isli_source_id": "151503445015201900",
+            "source_content": "是已修改状态。到第二章"
+        },
+        {
+            "isli_source_id": "151503445116101700",
+            "source_content": "，并学会如何善用这些状"
+        },
+        {
+            "isli_source_id": "151503445216904900",
+            "source_content": "环节。"
+        },
+        {
+            "isli_source_id": "151503445317904800",
+            "source_content": "候动动手了，不过在此之前得先安装好Git。有许多安装方式，概括起来主要有两种，一种是通过编译源代码来安装；另一种是使用为特定平台预编译好的安装包。\n1.4.1 从源代码安装"
+        },
+        {
+            "isli_source_id": "151563488593782300",
+            "source_content": "若是条件允许，"
+        },
+        {
+            "isli_source_id": "151563493451203700",
+            "source_content": "安装有很多好"
+        },
+        {
+            "isli_source_id": "151503445419002400",
+            "source_content": "的版本。Git的每个版本都在不断尝试改进用户体验，所以能通过源代码自己编译安装最新版本就再好不过了。有些Linux版本自带的安"
+        },
+        {
+            "isli_source_id": "151503445519401200",
+            "source_content": "所以除非你在用最新的distro或者backports，那么从源代码安装其实该算是最佳选择。\nGit的工作需要调用curl，zli"
+        },
+        {
+            "isli_source_id": "151503445619807700",
+            "source_content": "码，所以需要先安装这"
+        },
+        {
+            "isli_source_id": "151503445720208500",
+            "source_content": "yum的系统上（比如Fed"
+        },
+        {
+            "isli_source_id": "151503445820606800",
+            "source_content": "ebian体系的），可以"
+        },
+        {
+            "isli_source_id": "151503445921001200",
+            "source_content": "："
+        },
+        {
+            "isli_source_id": "151503446623801000",
+            "source_content": ""
+        },
+        {
+            "isli_source_id": "151503446523401200",
+            "source_content": ""
+        },
+        {
+            "isli_source_id": "151503446423001500",
+            "source_content": ""
+        },
+        {
+            "isli_source_id": "151503446021401200",
+            "source_content": "Linux系统门户网站，实时发布最新Linux资讯。"
+        },
+        {
+            "isli_source_id": "151549061885463000",
+            "source_content": "在Ubuntu这类Debian体系的系统上，可以用apt-get安装："
+        }
+    ]
+}

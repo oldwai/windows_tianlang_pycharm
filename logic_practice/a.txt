@@ -1,0 +1,278 @@
+{
+    "return_code": "0",
+    "status": {
+        "display_type": "2",
+        "isli_sources": [
+            {
+                "cfi_end_pos": "1!2/9/1/1/1/3/0:10",
+                "cfi_start_pos": "1!2/9/1/1/1/1/0:0",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700101",
+                "isli_source_id": "151503444510171600",
+                "source_content": "",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/11/0",
+                "cfi_start_pos": "1!2/11/0",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700102",
+                "isli_source_id": "151503446322607100",
+                "source_content": "",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/11/0",
+                "cfi_start_pos": "1!2/11/0",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700103",
+                "isli_source_id": "151503446222207000",
+                "source_content": "",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/11/0",
+                "cfi_start_pos": "1!2/11/0",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700104",
+                "isli_source_id": "151503446121801300",
+                "source_content": "",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/13/0:10",
+                "cfi_start_pos": "1!2/13/0:1",
+                "editor_logo": "",
+                "editor_name": "wancui",
+                "isli_code": "000000000305881781918",
+                "isli_source_id": "151563926401647000",
+                "source_content": "1.6：工作目录，",
+                "source_desc": "haoshuai"
+            },
+            {
+                "cfi_end_pos": "1!2/13/0:20",
+                "cfi_start_pos": "1!2/13/0:15",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700106",
+                "isli_source_id": "151503444611103200",
+                "source_content": "git目录",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/15/0:14",
+                "cfi_start_pos": "1!2/15/0:5",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700105",
+                "isli_source_id": "151503444712203400",
+                "source_content": "些修改了的文件作快",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/17/0:31",
+                "cfi_start_pos": "1!2/17/0:8",
+                "editor_logo": "",
+                "editor_name": "wancui",
+                "isli_code": "000000000305881766182",
+                "isli_source_id": "151555660597793700",
+                "source_content": "将保存在暂存区域的文件快照转储到git目录中。",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/19/0:62",
+                "cfi_start_pos": "1!2/19/0:3",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700107",
+                "isli_source_id": "151503444813201200",
+                "source_content": "我们可以从文件所处的位置来判断状态：如果是git目录中保存着的特定版本文件，就属于已提交状态；如果作了修改并已放入暂存",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/19/0:89",
+                "cfi_start_pos": "1!2/19/0:78",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700108",
+                "isli_source_id": "151503444914201000",
+                "source_content": "次取出后，作了修改但还",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/19/0:110",
+                "cfi_start_pos": "1!2/19/0:99",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700107",
+                "isli_source_id": "151503445015201900",
+                "source_content": "是已修改状态。到第二章",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/19/0:137",
+                "cfi_start_pos": "1!2/19/0:126",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700108",
+                "isli_source_id": "151503445116101700",
+                "source_content": "，并学会如何善用这些状",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/19/0:150",
+                "cfi_start_pos": "1!2/19/0:147",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700107",
+                "isli_source_id": "151503445216904900",
+                "source_content": "环节。",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/25/0:12",
+                "cfi_start_pos": "1!2/23/0:2",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700109",
+                "isli_source_id": "151503445317904800",
+                "source_content": "候动动手了，不过在此之前得先安装好Git。有许多安装方式，概括起来主要有两种，一种是通过编译源代码来安装；另一种是使用为特定平台预编译好的安装包。\n1.4.1 从源代码安装",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/27/0:7",
+                "cfi_start_pos": "1!2/27/0:0",
+                "editor_logo": "",
+                "editor_name": "wancui",
+                "isli_code": "000000000305881724761",
+                "isli_source_id": "151563488593782300",
+                "source_content": "若是条件允许，",
+                "source_desc": "王彬那你们"
+            },
+            {
+                "cfi_end_pos": "1!2/27/0:17",
+                "cfi_start_pos": "1!2/27/0:11",
+                "editor_logo": "",
+                "editor_name": "wancui",
+                "isli_code": "000000000305881787814",
+                "isli_source_id": "151563493451203700",
+                "source_content": "安装有很多好",
+                "source_desc": "热腾腾"
+            },
+            {
+                "cfi_end_pos": "1!2/27/0:90",
+                "cfi_start_pos": "1!2/27/0:27",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700110",
+                "isli_source_id": "151503445419002400",
+                "source_content": "的版本。Git的每个版本都在不断尝试改进用户体验，所以能通过源代码自己编译安装最新版本就再好不过了。有些Linux版本自带的安",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/29/0:18",
+                "cfi_start_pos": "1!2/27/0:101",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700111",
+                "isli_source_id": "151503445519401200",
+                "source_content": "所以除非你在用最新的distro或者backports，那么从源代码安装其实该算是最佳选择。\nGit的工作需要调用curl，zli",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/29/0:58",
+                "cfi_start_pos": "1!2/29/0:48",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700112",
+                "isli_source_id": "151503445619807700",
+                "source_content": "码，所以需要先安装这",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/29/0:79",
+                "cfi_start_pos": "1!2/29/0:66",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700111",
+                "isli_source_id": "151503445720208500",
+                "source_content": "yum的系统上（比如Fed",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/29/0:113",
+                "cfi_start_pos": "1!2/29/0:101",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700112",
+                "isli_source_id": "151503445820606800",
+                "source_content": "ebian体系的），可以",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/29/0:123",
+                "cfi_start_pos": "1!2/29/0:121",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700111",
+                "isli_source_id": "151503445921001200",
+                "source_content": "：",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/31/0",
+                "cfi_start_pos": "1!2/31/0",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881799999",
+                "isli_source_id": "151503446623801000",
+                "source_content": "",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/31/0",
+                "cfi_start_pos": "1!2/31/0",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700112",
+                "isli_source_id": "151503446523401200",
+                "source_content": "",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/31/0",
+                "cfi_start_pos": "1!2/31/0",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881700111",
+                "isli_source_id": "151503446423001500",
+                "source_content": "",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/33/0:56",
+                "cfi_start_pos": "1!2/33/0:29",
+                "editor_logo": "http://172.16.3.134编辑正在期待你对内容添加媒体资源",
+                "editor_name": "运营编辑",
+                "isli_code": "000000000305881799999",
+                "isli_source_id": "151503446021401200",
+                "source_content": "Linux系统门户网站，实时发布最新Linux资讯。",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            },
+            {
+                "cfi_end_pos": "1!2/57/0:35",
+                "cfi_start_pos": "1!2/57/0:0",
+                "editor_logo": "",
+                "editor_name": "wancui",
+                "isli_code": "000000000305881749679",
+                "isli_source_id": "151549061885463000",
+                "source_content": "在Ubuntu这类Debian体系的系统上，可以用apt-get安装：",
+                "source_desc": "编辑正在期待你对内容添加媒体资源"
+            }
+        ]
+    }
+}
