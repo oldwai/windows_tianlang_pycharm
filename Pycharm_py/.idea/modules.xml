@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pycharm_py.iml" filepath="$PROJECT_DIR$/.idea/Pycharm_py.iml" />
+      <module fileurl="file://G:/my file/auto_locateElments/.idea/auto_locateElments.iml" filepath="G:/my file/auto_locateElments/.idea/auto_locateElments.iml" />
+      <module fileurl="file://F:/demo/.idea/demo.iml" filepath="F:/demo/.idea/demo.iml" />
+      <module fileurl="file://F:/Automation/PC自动化分享资料/publisher_test/.idea/publisher_test.iml" filepath="F:/Automation/PC自动化分享资料/publisher_test/.idea/publisher_test.iml" />
+    </modules>
+  </component>
+</project>

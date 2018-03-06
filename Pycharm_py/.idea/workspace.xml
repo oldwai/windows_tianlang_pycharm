@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c7eca4a-8e99-4bee-874b-43f1cd087bdf" name="默认的" comment="" />
+    <ignored path="Pycharm_py.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Pycharm_py$0002.coverage" NAME="0002 Coverage Results" MODIFIED="1508207525243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/exercise" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$085.coverage" NAME="085 Coverage Results" MODIFIED="1506586751988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$088.coverage" NAME="088 Coverage Results" MODIFIED="1507705255915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$base.coverage" NAME="base Coverage Results" MODIFIED="1512465059154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/demo" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$47.coverage" NAME="47 Coverage Results" MODIFIED="1504657649607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$py_test_in_LoginTest.coverage" NAME="py.test in LoginTest Coverage Results" MODIFIED="1505380913110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$conf_host.coverage" NAME="conf_host Coverage Results" MODIFIED="1505722758095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$003.coverage" NAME="003 Coverage Results" MODIFIED="1511164335503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$081game_of_apperance.coverage" NAME="081game_of_apperance Coverage Results" MODIFIED="1508120665471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$py_test_in_test_login_py.coverage" NAME="py.test in test_login.py Coverage Results" MODIFIED="1505375855600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$test_selenium.coverage" NAME="test_selenium Coverage Results" MODIFIED="1506569876131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$decoration.coverage" NAME="decoration Coverage Results" MODIFIED="1505737725702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$pygame_pratice.coverage" NAME="pygame_pratice Coverage Results" MODIFIED="1508134915496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/exercise" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$080event.coverage" NAME="080event Coverage Results" MODIFIED="1506397721805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$regex_001.coverage" NAME="regex-001 Coverage Results" MODIFIED="1509961792671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$file_rd001.coverage" NAME="file_rd001 Coverage Results" MODIFIED="1511754101062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/practice/file_read&amp;write" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$25.coverage" NAME="25 Coverage Results" MODIFIED="1517486033763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$31.coverage" NAME="31 Coverage Results" MODIFIED="1504410687888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$practice_1.coverage" NAME="practice_1 Coverage Results" MODIFIED="1490590645557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$practice_4.coverage" NAME="practice_4 Coverage Results" MODIFIED="1490702151860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$base_improve.coverage" NAME="base_improve Coverage Results" MODIFIED="1506403278037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$prcatice_5.coverage" NAME="prcatice_5 Coverage Results" MODIFIED="1490865842737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$rotate_pygame.coverage" NAME="rotate_pygame Coverage Results" MODIFIED="1506410599531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$uiautomation.coverage" NAME="uiautomation Coverage Results" MODIFIED="1504764981623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/python/Lib/site-packages/uiautomation" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$49.coverage" NAME="49 Coverage Results" MODIFIED="1504659437562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$0001__1_.coverage" NAME="0001 (1) Coverage Results" MODIFIED="1509702359932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$auto_get_element.coverage" NAME="auto_get_element Coverage Results" MODIFIED="1505967357730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/my file/auto_locateElments" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$operation__1_.coverage" NAME="operation Coverage Results" MODIFIED="1505977717721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$main_bak.coverage" NAME="main_bak Coverage Results" MODIFIED="1508380813906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/pygame_playplane" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$32.coverage" NAME="32 Coverage Results" MODIFIED="1504484953361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$excel_operation.coverage" NAME="excel_operation Coverage Results" MODIFIED="1506059367990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$main.coverage" NAME="main Coverage Results" MODIFIED="1508123975562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/pygame_playplane" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$py_test_in_test_login_fast_uiautomation_py.coverage" NAME="py.test in test_login_fast_uiautomation.py Coverage Results" MODIFIED="1505368474070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$0001.coverage" NAME="0001 Coverage Results" MODIFIED="1508208572792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/exercise" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$chop_pygame.coverage" NAME="chop_pygame Coverage Results" MODIFIED="1506420962945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$star_fire.coverage" NAME="star_fire Coverage Results" MODIFIED="1508121209775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/exercise" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$44.coverage" NAME="44 Coverage Results" MODIFIED="1504597105459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$elements.coverage" NAME="elements Coverage Results" MODIFIED="1505964694197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$Unittests_in_Login_test.coverage" NAME="Unittests in Login_test Coverage Results" MODIFIED="1505360145842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$playnew.coverage" NAME="playnew Coverage Results" MODIFIED="1507777370513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/pygame_playplane" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$50.coverage" NAME="50 Coverage Results" MODIFIED="1512015205790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$rcs_elements.coverage" NAME="rcs_elements Coverage Results" MODIFIED="1512542973426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$079pygame.coverage" NAME="079pygame Coverage Results" MODIFIED="1506486386594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$regex0002.coverage" NAME="regex0002 Coverage Results" MODIFIED="1510024225579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$087sound_music.coverage" NAME="087sound_music Coverage Results" MODIFIED="1506667028565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$self_example.coverage" NAME="self_example Coverage Results" MODIFIED="1490761175048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$36.coverage" NAME="36 Coverage Results" MODIFIED="1504498589837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$Unittests_in_test_login_fast_uiautomation.coverage" NAME="Unittests in test_login_fast_uiautomation Coverage Results" MODIFIED="1505290633774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$game_play_plane.coverage" NAME="game_play_plane Coverage Results" MODIFIED="1506064798088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$num_0000.coverage" NAME="num_0000 Coverage Results" MODIFIED="1511764762245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Git_pratice" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$dddd.coverage" NAME="dddd Coverage Results" MODIFIED="1512038137950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/practice" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$luoospider.coverage" NAME="luoospider Coverage Results" MODIFIED="1504404939600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/github_download" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$45.coverage" NAME="45 Coverage Results" MODIFIED="1504598808140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$.coverage" NAME="基础知识 Coverage Results" MODIFIED="1511158803679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$config_parse.coverage" NAME="config_parse Coverage Results" MODIFIED="1517574628319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/practice" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$51.coverage" NAME="51 Coverage Results" MODIFIED="1517534866345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$test_error_code.coverage" NAME="test_error_code Coverage Results" MODIFIED="1506307773958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$test_login_fast_uiautomation.coverage" NAME="test_login_fast_uiautomation Coverage Results" MODIFIED="1505281775318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$verify_mutil_user_loginfast.coverage" NAME="verify_mutil_user_loginfast Coverage Results" MODIFIED="1505826603652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$name.coverage" NAME="name Coverage Results" MODIFIED="1511950405501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/practice" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$39.coverage" NAME="39 Coverage Results" MODIFIED="1504518263670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$084graphing.coverage" NAME="084graphing Coverage Results" MODIFIED="1506569327434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$46.coverage" NAME="46 Coverage Results" MODIFIED="1504600066799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$pygame.coverage" NAME="pygame Coverage Results" MODIFIED="1508115393051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/exercise" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$operation.coverage" NAME="operation Coverage Results" MODIFIED="1505288240276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/base" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$guess_num_game.coverage" NAME="guess_num_game Coverage Results" MODIFIED="1508909798047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$practice_3.coverage" NAME="practice_3 Coverage Results" MODIFIED="1490606286729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$test001.coverage" NAME="test001 Coverage Results" MODIFIED="1511761309852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/practice/wechat" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$cmd.coverage" NAME="cmd Coverage Results" MODIFIED="1504757548333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$testpillow.coverage" NAME="testpillow Coverage Results" MODIFIED="1511767491280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Git_pratice" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$34.coverage" NAME="34 Coverage Results" MODIFIED="1504485831997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$auto_format_syntax.coverage" NAME="auto_format_syntax Coverage Results" MODIFIED="1505967399620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/my file/auto_locateElments" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$rcs_operation.coverage" NAME="rcs_operation Coverage Results" MODIFIED="1512541062539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$Unittests_in_Login.coverage" NAME="Unittests in Login Coverage Results" MODIFIED="1504765122791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Automation/PC自动化分享资料/publisher_test/test_case" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$086collide______2.coverage" NAME="086collide------2 Coverage Results" MODIFIED="1506651939198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$game_play_plane__1_.coverage" NAME="game_play_plane (1) Coverage Results" MODIFIED="1506301859120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/pygame_playplane" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$action.coverage" NAME="action Coverage Results" MODIFIED="1505376577820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Automation/PC自动化分享资料/publisher_test/test_case/base" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$hello.coverage" NAME="hello Coverage Results" MODIFIED="1490586934521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$add_user.coverage" NAME="add_user Coverage Results" MODIFIED="1512100296570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/practice" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$087add_music_ballgame.coverage" NAME="087add_music_ballgame Coverage Results" MODIFIED="1506739502952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$086collide_check.coverage" NAME="086collide_check Coverage Results" MODIFIED="1506588561268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/fishcom_pygame" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$test.coverage" NAME="test Coverage Results" MODIFIED="1490865901234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$notepad.coverage" NAME="notepad Coverage Results" MODIFIED="1504936224839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/test_example" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1491017290328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reptile" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$py_test_in_test_login_case_py.coverage" NAME="py.test in test_login_case.py Coverage Results" MODIFIED="1508837277506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$Unittests_in_Login_test__1_.coverage" NAME="Unittests in Login_test (1) Coverage Results" MODIFIED="1505290889187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$wormy.coverage" NAME="wormy Coverage Results" MODIFIED="1508142218371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/test-project/demo/exercise" />
+    <SUITE FILE_PATH="coverage/Pycharm_py$11111.coverage" NAME="11111 Coverage Results" MODIFIED="1511917228977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Py_practice_example/practice" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Pycharm_py" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="24.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/24.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="51.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/51.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3542354">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configparser.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python35/Lib/configparser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="557" column="6" selection-start-line="557" selection-start-column="6" selection-end-line="557" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#6281#1" expanded="false" />
+                <element signature="e#7140#7360#0" expanded="false" />
+                <element signature="e#7227#7283#0" expanded="false" />
+                <element signature="e#7317#7336#0" expanded="false" />
+                <element signature="e#7396#7609#0" expanded="false" />
+                <element signature="e#7495#7609#0" expanded="false" />
+                <element signature="e#7652#8547#0" expanded="false" />
+                <element signature="e#7652#7919#1" expanded="false" />
+                <element signature="e#7988#8547#0" expanded="false" />
+                <element signature="e#8589#9525#0" expanded="false" />
+                <element signature="e#8589#8809#1" expanded="false" />
+                <element signature="e#8886#9525#0" expanded="false" />
+                <element signature="e#9560#9842#0" expanded="false" />
+                <element signature="e#9650#9842#0" expanded="false" />
+                <element signature="e#9882#10120#0" expanded="false" />
+                <element signature="e#9992#10120#0" expanded="false" />
+                <element signature="e#10186#10708#0" expanded="false" />
+                <element signature="e#10327#10708#0" expanded="false" />
+                <element signature="e#10767#10980#0" expanded="false" />
+                <element signature="e#10767#10980#2" expanded="false" />
+                <element signature="e#11038#11569#0" expanded="false" />
+                <element signature="e#11151#11569#0" expanded="false" />
+                <element signature="e#11603#13076#0" expanded="false" />
+                <element signature="e#11733#12322#0" expanded="false" />
+                <element signature="e#12370#12620#0" expanded="false" />
+                <element signature="e#12682#12934#0" expanded="false" />
+                <element signature="e#12980#13076#0" expanded="false" />
+                <element signature="e#13130#13536#0" expanded="false" />
+                <element signature="e#13258#13533#0" expanded="false" />
+                <element signature="e#13758#14163#0" expanded="false" />
+                <element signature="e#13908#13920#0" expanded="false" />
+                <element signature="e#13988#14000#0" expanded="false" />
+                <element signature="e#14069#14081#0" expanded="false" />
+                <element signature="e#14151#14163#0" expanded="false" />
+                <element signature="e#14211#17026#0" expanded="false" />
+                <element signature="e#14211#14762#1" expanded="false" />
+                <element signature="e#14884#14995#0" expanded="false" />
+                <element signature="e#15063#15384#0" expanded="false" />
+                <element signature="e#15503#17026#0" expanded="false" />
+                <element signature="e#17077#20124#0" expanded="false" />
+                <element signature="e#17326#17437#0" expanded="false" />
+                <element signature="e#17505#17825#0" expanded="false" />
+                <element signature="e#17944#20124#0" expanded="false" />
+                <element signature="e#20173#21492#0" expanded="false" />
+                <element signature="e#20422#21197#0" expanded="false" />
+                <element signature="e#21265#21277#0" expanded="false" />
+                <element signature="e#21352#21492#0" expanded="false" />
+                <element signature="e#24029#25606#0" expanded="false" />
+                <element signature="e#25640#25661#0" expanded="false" />
+                <element signature="e#25695#25852#0" expanded="false" />
+                <element signature="e#25898#26395#0" expanded="false" />
+                <element signature="e#25898#26088#1" expanded="false" />
+                <element signature="e#26441#26614#0" expanded="false" />
+                <element signature="e#26441#26573#1" expanded="false" />
+                <element signature="e#26656#26928#0" expanded="false" />
+                <element signature="e#26984#27826#0" expanded="false" />
+                <element signature="e#26984#27458#1" expanded="false" />
+                <element signature="e#27877#28393#0" expanded="false" />
+                <element signature="e#27877#28219#1" expanded="false" />
+                <element signature="e#28457#28576#0" expanded="false" />
+                <element signature="e#28640#29930#0" expanded="false" />
+                <element signature="e#28640#29165#1" expanded="false" />
+                <element signature="e#29981#30256#0" expanded="false" />
+                <element signature="e#30344#31610#0" expanded="false" />
+                <element signature="e#30344#30955#1" expanded="false" />
+                <element signature="e#31673#31721#0" expanded="false" />
+                <element signature="e#31849#32103#0" expanded="false" />
+                <element signature="e#32290#32412#0" expanded="false" />
+                <element signature="e#32532#32656#0" expanded="false" />
+                <element signature="e#32780#32923#0" expanded="false" />
+                <element signature="e#32992#34150#0" expanded="false" />
+                <element signature="e#32992#33455#1" expanded="false" />
+                <element signature="e#34183#34566#0" expanded="false" />
+                <element signature="e#34183#34421#1" expanded="false" />
+                <element signature="e#34614#34638#0" expanded="false" />
+                <element signature="e#34691#35288#0" expanded="false" />
+                <element signature="e#34691#34907#1" expanded="false" />
+                <element signature="e#35346#35831#0" expanded="false" />
+                <element signature="e#35896#36541#0" expanded="false" />
+                <element signature="e#35896#36104#1" expanded="false" />
+                <element signature="e#36625#37152#0" expanded="false" />
+                <element signature="e#37208#37650#0" expanded="false" />
+                <element signature="e#37699#37893#0" expanded="false" />
+                <element signature="e#37935#38062#0" expanded="false" />
+                <element signature="e#38111#38547#0" expanded="false" />
+                <element signature="e#38589#38790#0" expanded="false" />
+                <element signature="e#38833#38892#0" expanded="false" />
+                <element signature="e#38925#38977#0" expanded="false" />
+                <element signature="e#39011#39150#0" expanded="false" />
+                <element signature="e#39193#45176#0" expanded="false" />
+                <element signature="e#39193#39978#1" expanded="false" />
+                <element signature="e#45224#45788#0" expanded="false" />
+                <element signature="e#45854#45962#0" expanded="false" />
+                <element signature="e#46016#46693#0" expanded="false" />
+                <element signature="e#46016#46158#1" expanded="false" />
+                <element signature="e#46745#46986#0" expanded="false" />
+                <element signature="e#47069#47933#0" expanded="false" />
+                <element signature="e#47069#47578#1" expanded="false" />
+                <element signature="e#47983#48006#0" expanded="false" />
+                <element signature="e#48050#48710#0" expanded="false" />
+                <element signature="e#48205#48427#0" expanded="false" />
+                <element signature="e#48473#48710#0" expanded="false" />
+                <element signature="e#48473#48621#1" expanded="false" />
+                <element signature="e#48755#49181#0" expanded="false" />
+                <element signature="e#48868#49181#0" expanded="false" />
+                <element signature="e#49224#51431#0" expanded="false" />
+                <element signature="e#49321#49633#0" expanded="false" />
+                <element signature="e#49667#49708#0" expanded="false" />
+                <element signature="e#49750#49879#0" expanded="false" />
+                <element signature="e#49928#50043#0" expanded="false" />
+                <element signature="e#50085#50231#0" expanded="false" />
+                <element signature="e#50274#50321#0" expanded="false" />
+                <element signature="e#50354#50381#0" expanded="false" />
+                <element signature="e#50415#50448#0" expanded="false" />
+                <element signature="e#50482#50637#0" expanded="false" />
+                <element signature="e#50683#50757#0" expanded="false" />
+                <element signature="e#50801#50877#0" expanded="false" />
+                <element signature="e#50988#51431#0" expanded="false" />
+                <element signature="e#50988#51124#1" expanded="false" />
+                <element signature="e#51478#53451#0" expanded="false" />
+                <element signature="e#51478#51787#1" expanded="false" />
+                <element signature="e#51879#52176#0" expanded="false" />
+                <element signature="e#52218#52240#0" expanded="false" />
+                <element signature="e#52289#52878#0" expanded="false" />
+                <element signature="e#52920#53339#0" expanded="false" />
+                <element signature="e#53373#53396#0" expanded="false" />
+                <element signature="e#53429#53451#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="50.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/50.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GotoFileConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="ARCHIVE" />
+      <filtered-out-file-type name="ActionScript" />
+      <filtered-out-file-type name="AspectJ" />
+      <filtered-out-file-type name="BuildoutCfg" />
+      <filtered-out-file-type name="C#" />
+      <filtered-out-file-type name="C++" />
+      <filtered-out-file-type name="CSS" />
+      <filtered-out-file-type name="Chameleon" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="CommandLine" />
+      <filtered-out-file-type name="Cucumber" />
+      <filtered-out-file-type name="Cython" />
+      <filtered-out-file-type name="DATASOURCE_STORAGE" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="Database Element" />
+      <filtered-out-file-type name="ECMAScript 6" />
+      <filtered-out-file-type name="ESLint" />
+      <filtered-out-file-type name="Erlang" />
+      <filtered-out-file-type name="H2 Database" />
+      <filtered-out-file-type name="HAML" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="Haskell" />
+      <filtered-out-file-type name="IDL" />
+      <filtered-out-file-type name="IPNB" />
+      <filtered-out-file-type name="Images" />
+      <filtered-out-file-type name="Ini" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JSCS" />
+      <filtered-out-file-type name="JSHint" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="JSP" />
+      <filtered-out-file-type name="JSX Harmony" />
+      <filtered-out-file-type name="JavaFX" />
+      <filtered-out-file-type name="JavaScript" />
+      <filtered-out-file-type name="Jinja2" />
+      <filtered-out-file-type name="Less" />
+      <filtered-out-file-type name="Literate CoffeeScript" />
+      <filtered-out-file-type name="Locale" />
+      <filtered-out-file-type name="Mako" />
+      <filtered-out-file-type name="Native" />
+      <filtered-out-file-type name="PATCH" />
+      <filtered-out-file-type name="PHP" />
+      <filtered-out-file-type name="PLAIN_TEXT" />
+      <filtered-out-file-type name="Perl" />
+      <filtered-out-file-type name="Puppet" />
+      <filtered-out-file-type name="PythonStub" />
+      <filtered-out-file-type name="Qt UI file" />
+      <filtered-out-file-type name="RNG Compact" />
+      <filtered-out-file-type name="ReST" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="SCSS" />
+      <filtered-out-file-type name="SQL" />
+      <filtered-out-file-type name="SQLite Database" />
+      <filtered-out-file-type name="Sass" />
+      <filtered-out-file-type name="Scratch" />
+      <filtered-out-file-type name="SourceMap" />
+      <filtered-out-file-type name="Stylus" />
+      <filtered-out-file-type name="TSLint" />
+      <filtered-out-file-type name="TypeScript" />
+      <filtered-out-file-type name="TypeScript JSX" />
+      <filtered-out-file-type name="UML" />
+      <filtered-out-file-type name="UNKNOWN" />
+      <filtered-out-file-type name="Web2Py" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="YAML" />
+      <filtered-out-file-type name="YouTrack" />
+      <filtered-out-file-type name="textmate" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Py_practice_example/practice/name.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/test_login_case.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/test-project/demo/fishcom_pygame/088.py" />
+        <option value="E:/test-project/pygame_playplane/playnew.py" />
+        <option value="E:/test-project/supply.py" />
+        <option value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/elements.py" />
+        <option value="E:/test-project/pygame_playplane/supply.py" />
+        <option value="E:/test-project/pygame_playplane/bullet.py" />
+        <option value="E:/test-project/pygame_playplane/enemy.py" />
+        <option value="E:/test-project/pygame_playplane/myplane.py" />
+        <option value="E:/test-project/demo/exercise/pygame.py" />
+        <option value="E:/test-project/pygame_playplane/main.py" />
+        <option value="E:/test-project/demo/exercise/star_fire.py" />
+        <option value="E:/test-project/demo/exercise/pygame_pratice.py" />
+        <option value="E:/test-project/demo/exercise/wormy.py" />
+        <option value="E:/test-project/demo/exercise/0001.py" />
+        <option value="E:/test-project/demo/exercise/0002.py" />
+        <option value="E:/test-project/pygame_playplane/main_bak.py" />
+        <option value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/test_login_case.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/guess_num_game.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/0001.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/regex-001.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/regex0002.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/基础知识.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/003.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/dddd.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/name.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/file_rd001.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/file_read&amp;write/file001.txt" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/file_read&amp;write/file_rd001.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/wechat/test001.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/Py_cnblog_practice_exam/practice_5.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/Git_pratice/num_0000.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/Git_pratice/testpillow.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/11111.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/regex0002.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/name.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/50.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/dddd.py" />
+        <option value="F:/demo/base.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/base.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/add_user.py" />
+        <option value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_base.py" />
+        <option value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_elements.py" />
+        <option value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_operation.py" />
+        <option value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/rcs_login_fast.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/24.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/25.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/51.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/config.ini" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/test.ini" />
+        <option value="D:/Python35/Lib/configparser.py" />
+        <option value="$PROJECT_DIR$/Py_practice_example/practice/config_parse.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyStatementEffectInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="publisher_test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm_py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm_py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm_py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm_py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm_py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Py_practice_example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm_py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm_py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Py_practice_example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm_py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm_py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Py_practice_example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Py_practice_instance100" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Extensions" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.intellij.database" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyPsiNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/Pycharm_py/Py_practice_example/practice/config.ini&#10;：&#9;null&#9;null&#10;D&#9;FILE&#9;file://E:/github_download/luoospider.py" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Pycharm_py\Py_practice_example\practice\wechat" />
+      <recent name="E:\Pycharm_py\Py_practice_example\Git_pratice" />
+      <recent name="E:\logic_practice" />
+      <recent name="E:\test-project\111" />
+      <recent name="E:\test-project\pygame_playplane" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Pycharm_py\FAST\automation_test\fast_encapsulation\base" />
+      <recent name="E:\Pycharm_py\Py_practice_example\practice" />
+      <recent name="E:\Pycharm_py\Py_practice_example\practice\file_read&amp;write" />
+      <recent name="E:\test-project\pygame_playplane" />
+      <recent name="E:\test-project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.config_parse">
+    <configuration default="false" name="rcs_elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="rcs_operation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="51" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/51.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="config_parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Py_practice_example/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Py_practice_example/practice/config_parse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Pycharm_py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.rcs_elements" />
+      <item index="1" class="java.lang.String" itemvalue="Python.rcs_operation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.25" />
+      <item index="3" class="java.lang.String" itemvalue="Python.51" />
+      <item index="4" class="java.lang.String" itemvalue="Python.config_parse" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.config_parse" />
+        <item index="1" class="java.lang.String" itemvalue="Python.51" />
+        <item index="2" class="java.lang.String" itemvalue="Python.25" />
+        <item index="3" class="java.lang.String" itemvalue="Python.rcs_elements" />
+        <item index="4" class="java.lang.String" itemvalue="Python.rcs_operation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c7eca4a-8e99-4bee-874b-43f1cd087bdf" name="默认的" comment="" />
+      <created>1490325330609</created>
+      <option name="number" value="Default" />
+      <updated>1490325330609</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_LoginTest - 2017.09.14 at 17h 22m 29s.xml">
+      <configuration name="py.test in LoginTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_case_py - 2017.09.14 at 17h 27m 58s.xml">
+      <configuration name="py.test in test_login_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_case_py - 2017.10.24 at 17h 27m 36s.xml">
+      <configuration name="py.test in test_login_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_case_py - 2017.10.24 at 17h 28m 02s.xml">
+      <configuration name="py.test in test_login_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_fast_uiautomation_py - 2017.09.14 at 13h 55m 07s.xml">
+      <configuration name="py.test in test_login_fast_uiautomation.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_py - 2017.09.14 at 15h 48m 48s.xml">
+      <configuration name="py.test in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_py - 2017.09.14 at 15h 50m 05s.xml">
+      <configuration name="py.test in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_py - 2017.09.14 at 15h 52m 33s.xml">
+      <configuration name="py.test in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_py - 2017.09.14 at 15h 57m 41s.xml">
+      <configuration name="py.test in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_py - 2017.09.14 at 15h 57m 45s.xml">
+      <configuration name="py.test in test_login.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18443497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39576367" sideWeight="0.52558637" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31403118" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3827292" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2761194" sideWeight="0.47441363" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4094388" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65654206" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36140725" sideWeight="0.4914712" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36677814" sideWeight="0.5063966" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3827292" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36677814" sideWeight="0.4936034" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4094388" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21162046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Py_practice_example/prcatice_5.py</url>
+          <line>7</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/test_login_case.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://F:/Automation/PC自动化分享资料/publisher_test/test_case/base/action.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/elements.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/elements.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/operation.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/operation.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/operation.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/operation.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/operation.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/operation.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/operation.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/demo/fishcom_pygame/079pygame.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/demo/fishcom_pygame/079pygame.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/demo/fishcom_pygame/085.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/demo/fishcom_pygame/086collide------2.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/demo/fishcom_pygame/087add_music_ballgame.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/demo/fishcom_pygame/088.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/demo/fishcom_pygame/088.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/demo/fishcom_pygame/088.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/pygame_playplane/supply.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://E:/test-project/demo/exercise/0001.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Py_practice_example/practice/dddd.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Py_practice_example/practice/dddd.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Py_practice_example/practice/dddd.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Py_practice_example/practice/dddd.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_operation.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_operation.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_operation.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_operation.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="81" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Python35/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="557" column="6" selection-start-line="557" selection-start-column="6" selection-end-line="557" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#6281#1" expanded="false" />
+            <element signature="e#7140#7360#0" expanded="false" />
+            <element signature="e#7227#7283#0" expanded="false" />
+            <element signature="e#7317#7336#0" expanded="false" />
+            <element signature="e#7396#7609#0" expanded="false" />
+            <element signature="e#7495#7609#0" expanded="false" />
+            <element signature="e#7652#8547#0" expanded="false" />
+            <element signature="e#7652#7919#1" expanded="false" />
+            <element signature="e#7988#8547#0" expanded="false" />
+            <element signature="e#8589#9525#0" expanded="false" />
+            <element signature="e#8589#8809#1" expanded="false" />
+            <element signature="e#8886#9525#0" expanded="false" />
+            <element signature="e#9560#9842#0" expanded="false" />
+            <element signature="e#9650#9842#0" expanded="false" />
+            <element signature="e#9882#10120#0" expanded="false" />
+            <element signature="e#9992#10120#0" expanded="false" />
+            <element signature="e#10186#10708#0" expanded="false" />
+            <element signature="e#10327#10708#0" expanded="false" />
+            <element signature="e#10767#10980#0" expanded="false" />
+            <element signature="e#10767#10980#2" expanded="false" />
+            <element signature="e#11038#11569#0" expanded="false" />
+            <element signature="e#11151#11569#0" expanded="false" />
+            <element signature="e#11603#13076#0" expanded="false" />
+            <element signature="e#11733#12322#0" expanded="false" />
+            <element signature="e#12370#12620#0" expanded="false" />
+            <element signature="e#12682#12934#0" expanded="false" />
+            <element signature="e#12980#13076#0" expanded="false" />
+            <element signature="e#13130#13536#0" expanded="false" />
+            <element signature="e#13258#13533#0" expanded="false" />
+            <element signature="e#13758#14163#0" expanded="false" />
+            <element signature="e#13908#13920#0" expanded="false" />
+            <element signature="e#13988#14000#0" expanded="false" />
+            <element signature="e#14069#14081#0" expanded="false" />
+            <element signature="e#14151#14163#0" expanded="false" />
+            <element signature="e#14211#17026#0" expanded="false" />
+            <element signature="e#14211#14762#1" expanded="false" />
+            <element signature="e#14884#14995#0" expanded="false" />
+            <element signature="e#15063#15384#0" expanded="false" />
+            <element signature="e#15503#17026#0" expanded="false" />
+            <element signature="e#17077#20124#0" expanded="false" />
+            <element signature="e#17326#17437#0" expanded="false" />
+            <element signature="e#17505#17825#0" expanded="false" />
+            <element signature="e#17944#20124#0" expanded="false" />
+            <element signature="e#20173#21492#0" expanded="false" />
+            <element signature="e#20422#21197#0" expanded="false" />
+            <element signature="e#21265#21277#0" expanded="false" />
+            <element signature="e#21352#21492#0" expanded="false" />
+            <element signature="e#24029#25606#0" expanded="false" />
+            <element signature="e#25640#25661#0" expanded="false" />
+            <element signature="e#25695#25852#0" expanded="false" />
+            <element signature="e#25898#26395#0" expanded="false" />
+            <element signature="e#25898#26088#1" expanded="false" />
+            <element signature="e#26441#26614#0" expanded="false" />
+            <element signature="e#26441#26573#1" expanded="false" />
+            <element signature="e#26656#26928#0" expanded="false" />
+            <element signature="e#26984#27826#0" expanded="false" />
+            <element signature="e#26984#27458#1" expanded="false" />
+            <element signature="e#27877#28393#0" expanded="false" />
+            <element signature="e#27877#28219#1" expanded="false" />
+            <element signature="e#28457#28576#0" expanded="false" />
+            <element signature="e#28640#29930#0" expanded="false" />
+            <element signature="e#28640#29165#1" expanded="false" />
+            <element signature="e#29981#30256#0" expanded="false" />
+            <element signature="e#30344#31610#0" expanded="false" />
+            <element signature="e#30344#30955#1" expanded="false" />
+            <element signature="e#31673#31721#0" expanded="false" />
+            <element signature="e#31849#32103#0" expanded="false" />
+            <element signature="e#32290#32412#0" expanded="false" />
+            <element signature="e#32532#32656#0" expanded="false" />
+            <element signature="e#32780#32923#0" expanded="false" />
+            <element signature="e#32992#34150#0" expanded="false" />
+            <element signature="e#32992#33455#1" expanded="false" />
+            <element signature="e#34183#34566#0" expanded="false" />
+            <element signature="e#34183#34421#1" expanded="false" />
+            <element signature="e#34614#34638#0" expanded="false" />
+            <element signature="e#34691#35288#0" expanded="false" />
+            <element signature="e#34691#34907#1" expanded="false" />
+            <element signature="e#35346#35831#0" expanded="false" />
+            <element signature="e#35896#36541#0" expanded="false" />
+            <element signature="e#35896#36104#1" expanded="false" />
+            <element signature="e#36625#37152#0" expanded="false" />
+            <element signature="e#37208#37650#0" expanded="false" />
+            <element signature="e#37699#37893#0" expanded="false" />
+            <element signature="e#37935#38062#0" expanded="false" />
+            <element signature="e#38111#38547#0" expanded="false" />
+            <element signature="e#38589#38790#0" expanded="false" />
+            <element signature="e#38833#38892#0" expanded="false" />
+            <element signature="e#38925#38977#0" expanded="false" />
+            <element signature="e#39011#39150#0" expanded="false" />
+            <element signature="e#39193#45176#0" expanded="false" />
+            <element signature="e#39193#39978#1" expanded="false" />
+            <element signature="e#45224#45788#0" expanded="false" />
+            <element signature="e#45854#45962#0" expanded="false" />
+            <element signature="e#46016#46693#0" expanded="false" />
+            <element signature="e#46016#46158#1" expanded="false" />
+            <element signature="e#46745#46986#0" expanded="false" />
+            <element signature="e#47069#47933#0" expanded="false" />
+            <element signature="e#47069#47578#1" expanded="false" />
+            <element signature="e#47983#48006#0" expanded="false" />
+            <element signature="e#48050#48710#0" expanded="false" />
+            <element signature="e#48205#48427#0" expanded="false" />
+            <element signature="e#48473#48710#0" expanded="false" />
+            <element signature="e#48473#48621#1" expanded="false" />
+            <element signature="e#48755#49181#0" expanded="false" />
+            <element signature="e#48868#49181#0" expanded="false" />
+            <element signature="e#49224#51431#0" expanded="false" />
+            <element signature="e#49321#49633#0" expanded="false" />
+            <element signature="e#49667#49708#0" expanded="false" />
+            <element signature="e#49750#49879#0" expanded="false" />
+            <element signature="e#49928#50043#0" expanded="false" />
+            <element signature="e#50085#50231#0" expanded="false" />
+            <element signature="e#50274#50321#0" expanded="false" />
+            <element signature="e#50354#50381#0" expanded="false" />
+            <element signature="e#50415#50448#0" expanded="false" />
+            <element signature="e#50482#50637#0" expanded="false" />
+            <element signature="e#50683#50757#0" expanded="false" />
+            <element signature="e#50801#50877#0" expanded="false" />
+            <element signature="e#50988#51431#0" expanded="false" />
+            <element signature="e#50988#51124#1" expanded="false" />
+            <element signature="e#51478#53451#0" expanded="false" />
+            <element signature="e#51478#51787#1" expanded="false" />
+            <element signature="e#51879#52176#0" expanded="false" />
+            <element signature="e#52218#52240#0" expanded="false" />
+            <element signature="e#52289#52878#0" expanded="false" />
+            <element signature="e#52920#53339#0" expanded="false" />
+            <element signature="e#53373#53396#0" expanded="false" />
+            <element signature="e#53429#53451#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/50.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/51.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/50.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/webdriver/remote/command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33222038">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_py/ver_push_system/version_push.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.14397496">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/tokenize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5082873">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/webdriver/common/action_chains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="218" column="42" selection-start-line="218" selection-start-column="42" selection-end-line="218" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/logic_practice/002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/logic_practice/last_exap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAST/test001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.165692">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/Git_pratice/num_0000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49317738">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/ceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.748538">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/filter_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4385965">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/uiautomation/uiautomation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50955415">
+          <caret line="4031" column="24" selection-start-line="4031" selection-start-column="14" selection-end-line="4031" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.027811367">
+          <caret line="344" column="0" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.027811367">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/file_read&amp;write/file_rd001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30592504">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5551257">
+          <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAST/auto_open_fast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/dddd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_py/ver_push_system/Release_Version_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25755742">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/webdriver/common/by.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63845223">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="406" column="40" selection-start-line="406" selection-start-column="40" selection-end-line="406" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7748091">
+          <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/common/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1068702">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0708503">
+          <caret line="354" column="8" selection-start-line="354" selection-start-column="8" selection-end-line="354" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/regex0002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39503816">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Automation/PC自动化分享资料/publisher_test/run_all_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4173387">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Automation/PC自动化分享资料/publisher_test/report_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9375">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Automation/PC自动化分享资料/publisher_test/run_test_suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32459676">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="e#2690#2776#0" expanded="false" />
+            <element signature="e#2806#2810#0" expanded="false" />
+            <element signature="e#2845#2849#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.86336154">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02530253">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43014303">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7496977">
+          <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/rcs_login_fast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50060457">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FAST/automation_test/fast_encapsulation/base/rcs_operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.027811367">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="e#75#92#0" expanded="false" />
+            <element signature="e#725#1261#0" expanded="false" />
+            <element signature="e#1322#1619#0" expanded="false" />
+            <element signature="e#1662#1864#0" expanded="false" />
+            <element signature="e#1924#2091#0" expanded="false" />
+            <element signature="e#2152#2324#0" expanded="false" />
+            <element signature="e#2363#2423#0" expanded="false" />
+            <element signature="e#2732#3360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/50.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/Py_practice_instance100/51.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/test.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm50/system/python_stubs/943167800/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33274648">
+          <caret line="263" column="22" selection-start-line="263" selection-start-column="22" selection-end-line="263" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm50/system/python_stubs/943167800/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="709" column="12" selection-start-line="709" selection-start-column="12" selection-end-line="709" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python35/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="557" column="6" selection-start-line="557" selection-start-column="6" selection-end-line="557" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#6281#1" expanded="false" />
+            <element signature="e#7140#7360#0" expanded="false" />
+            <element signature="e#7227#7283#0" expanded="false" />
+            <element signature="e#7317#7336#0" expanded="false" />
+            <element signature="e#7396#7609#0" expanded="false" />
+            <element signature="e#7495#7609#0" expanded="false" />
+            <element signature="e#7652#8547#0" expanded="false" />
+            <element signature="e#7652#7919#1" expanded="false" />
+            <element signature="e#7988#8547#0" expanded="false" />
+            <element signature="e#8589#9525#0" expanded="false" />
+            <element signature="e#8589#8809#1" expanded="false" />
+            <element signature="e#8886#9525#0" expanded="false" />
+            <element signature="e#9560#9842#0" expanded="false" />
+            <element signature="e#9650#9842#0" expanded="false" />
+            <element signature="e#9882#10120#0" expanded="false" />
+            <element signature="e#9992#10120#0" expanded="false" />
+            <element signature="e#10186#10708#0" expanded="false" />
+            <element signature="e#10327#10708#0" expanded="false" />
+            <element signature="e#10767#10980#0" expanded="false" />
+            <element signature="e#10767#10980#2" expanded="false" />
+            <element signature="e#11038#11569#0" expanded="false" />
+            <element signature="e#11151#11569#0" expanded="false" />
+            <element signature="e#11603#13076#0" expanded="false" />
+            <element signature="e#11733#12322#0" expanded="false" />
+            <element signature="e#12370#12620#0" expanded="false" />
+            <element signature="e#12682#12934#0" expanded="false" />
+            <element signature="e#12980#13076#0" expanded="false" />
+            <element signature="e#13130#13536#0" expanded="false" />
+            <element signature="e#13258#13533#0" expanded="false" />
+            <element signature="e#13758#14163#0" expanded="false" />
+            <element signature="e#13908#13920#0" expanded="false" />
+            <element signature="e#13988#14000#0" expanded="false" />
+            <element signature="e#14069#14081#0" expanded="false" />
+            <element signature="e#14151#14163#0" expanded="false" />
+            <element signature="e#14211#17026#0" expanded="false" />
+            <element signature="e#14211#14762#1" expanded="false" />
+            <element signature="e#14884#14995#0" expanded="false" />
+            <element signature="e#15063#15384#0" expanded="false" />
+            <element signature="e#15503#17026#0" expanded="false" />
+            <element signature="e#17077#20124#0" expanded="false" />
+            <element signature="e#17326#17437#0" expanded="false" />
+            <element signature="e#17505#17825#0" expanded="false" />
+            <element signature="e#17944#20124#0" expanded="false" />
+            <element signature="e#20173#21492#0" expanded="false" />
+            <element signature="e#20422#21197#0" expanded="false" />
+            <element signature="e#21265#21277#0" expanded="false" />
+            <element signature="e#21352#21492#0" expanded="false" />
+            <element signature="e#24029#25606#0" expanded="false" />
+            <element signature="e#25640#25661#0" expanded="false" />
+            <element signature="e#25695#25852#0" expanded="false" />
+            <element signature="e#25898#26395#0" expanded="false" />
+            <element signature="e#25898#26088#1" expanded="false" />
+            <element signature="e#26441#26614#0" expanded="false" />
+            <element signature="e#26441#26573#1" expanded="false" />
+            <element signature="e#26656#26928#0" expanded="false" />
+            <element signature="e#26984#27826#0" expanded="false" />
+            <element signature="e#26984#27458#1" expanded="false" />
+            <element signature="e#27877#28393#0" expanded="false" />
+            <element signature="e#27877#28219#1" expanded="false" />
+            <element signature="e#28457#28576#0" expanded="false" />
+            <element signature="e#28640#29930#0" expanded="false" />
+            <element signature="e#28640#29165#1" expanded="false" />
+            <element signature="e#29981#30256#0" expanded="false" />
+            <element signature="e#30344#31610#0" expanded="false" />
+            <element signature="e#30344#30955#1" expanded="false" />
+            <element signature="e#31673#31721#0" expanded="false" />
+            <element signature="e#31849#32103#0" expanded="false" />
+            <element signature="e#32290#32412#0" expanded="false" />
+            <element signature="e#32532#32656#0" expanded="false" />
+            <element signature="e#32780#32923#0" expanded="false" />
+            <element signature="e#32992#34150#0" expanded="false" />
+            <element signature="e#32992#33455#1" expanded="false" />
+            <element signature="e#34183#34566#0" expanded="false" />
+            <element signature="e#34183#34421#1" expanded="false" />
+            <element signature="e#34614#34638#0" expanded="false" />
+            <element signature="e#34691#35288#0" expanded="false" />
+            <element signature="e#34691#34907#1" expanded="false" />
+            <element signature="e#35346#35831#0" expanded="false" />
+            <element signature="e#35896#36541#0" expanded="false" />
+            <element signature="e#35896#36104#1" expanded="false" />
+            <element signature="e#36625#37152#0" expanded="false" />
+            <element signature="e#37208#37650#0" expanded="false" />
+            <element signature="e#37699#37893#0" expanded="false" />
+            <element signature="e#37935#38062#0" expanded="false" />
+            <element signature="e#38111#38547#0" expanded="false" />
+            <element signature="e#38589#38790#0" expanded="false" />
+            <element signature="e#38833#38892#0" expanded="false" />
+            <element signature="e#38925#38977#0" expanded="false" />
+            <element signature="e#39011#39150#0" expanded="false" />
+            <element signature="e#39193#45176#0" expanded="false" />
+            <element signature="e#39193#39978#1" expanded="false" />
+            <element signature="e#45224#45788#0" expanded="false" />
+            <element signature="e#45854#45962#0" expanded="false" />
+            <element signature="e#46016#46693#0" expanded="false" />
+            <element signature="e#46016#46158#1" expanded="false" />
+            <element signature="e#46745#46986#0" expanded="false" />
+            <element signature="e#47069#47933#0" expanded="false" />
+            <element signature="e#47069#47578#1" expanded="false" />
+            <element signature="e#47983#48006#0" expanded="false" />
+            <element signature="e#48050#48710#0" expanded="false" />
+            <element signature="e#48205#48427#0" expanded="false" />
+            <element signature="e#48473#48710#0" expanded="false" />
+            <element signature="e#48473#48621#1" expanded="false" />
+            <element signature="e#48755#49181#0" expanded="false" />
+            <element signature="e#48868#49181#0" expanded="false" />
+            <element signature="e#49224#51431#0" expanded="false" />
+            <element signature="e#49321#49633#0" expanded="false" />
+            <element signature="e#49667#49708#0" expanded="false" />
+            <element signature="e#49750#49879#0" expanded="false" />
+            <element signature="e#49928#50043#0" expanded="false" />
+            <element signature="e#50085#50231#0" expanded="false" />
+            <element signature="e#50274#50321#0" expanded="false" />
+            <element signature="e#50354#50381#0" expanded="false" />
+            <element signature="e#50415#50448#0" expanded="false" />
+            <element signature="e#50482#50637#0" expanded="false" />
+            <element signature="e#50683#50757#0" expanded="false" />
+            <element signature="e#50801#50877#0" expanded="false" />
+            <element signature="e#50988#51431#0" expanded="false" />
+            <element signature="e#50988#51124#1" expanded="false" />
+            <element signature="e#51478#53451#0" expanded="false" />
+            <element signature="e#51478#51787#1" expanded="false" />
+            <element signature="e#51879#52176#0" expanded="false" />
+            <element signature="e#52218#52240#0" expanded="false" />
+            <element signature="e#52289#52878#0" expanded="false" />
+            <element signature="e#52920#53339#0" expanded="false" />
+            <element signature="e#53373#53396#0" expanded="false" />
+            <element signature="e#53429#53451#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/config_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15181518">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#75#94#0" expanded="true" />
+            <element signature="e#425#749#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Py_practice_example/practice/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3542354">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+1501313762456	geckodriver	INFO	geckodriver 0.18.0
+1501313762465	geckodriver	INFO	Listening on 127.0.0.1:8058
+1501313764456	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1501313767564	Marionette	INFO	Listening on port 8064
+[Child 9032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
